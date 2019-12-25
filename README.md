@@ -9,4 +9,4 @@ The goal is to solve a binary classification task to determine whether a person 
  * Exploratory data analysis to understand the relationship between the features and the target variable
 
 I've built a mind map which summarizes my work :
-![mind_map](mind_map.jpg)
+![mind_map](Images/mind_map.jpg)
