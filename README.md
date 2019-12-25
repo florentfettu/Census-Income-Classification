@@ -2,5 +2,5 @@
 
 ## Description
 
-The prediction task is to determine whether a person makes over 50K a year.
+The goal is to solve a binary classification task to determine whether a person makes over 50K a year.
  
