@@ -2,7 +2,7 @@
 
 ## Description
 
-The goal is to solve a binary classification task to determine whether a person makes over 50k a year. The heart of the project lies in the application of the bayesian optimization of the hyperparameters of the models I've implemented.
+The goal is to solve a binary classification task to determine whether a person makes over 50k a year. The heart of the project lies in the bayesian optimization application of the models hyperparameters I've implemented.
  
  ## Scope of the project 
  The data for this project was taken from the UCI Machine Learning Repository : https://archive.ics.uci.edu/ml/datasets/census+income
