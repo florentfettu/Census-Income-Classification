@@ -1,7 +1,6 @@
 # Census-Income-Classification
 
 ## Description
-
 The goal is to solve a binary classification task to determine whether a person makes over 50k a year. The heart of the project lies in the bayesian optimization application of the models hyperparameters I've implemented.
  
 ## Scope of the project 
