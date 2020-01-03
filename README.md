@@ -1,4 +1,4 @@
-# Census-Income-Classification
+# Census Income Classification
 
 ## Description
 The goal is to solve a binary classification task to determine whether a person makes over 50k a year. The heart of the project lies in the bayesian optimization application of the models hyperparameters I've implemented.
@@ -12,4 +12,4 @@ The data for this project was taken from the UCI Machine Learning Repository : h
 
 ## Mind mapping
 I've built a mind map which summarizes my work :
-![mind_map](Images/mind_map.jpg)
+![Imgur](https://i.imgur.com/pQu4CvL.jpg)
