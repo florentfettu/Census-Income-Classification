@@ -12,4 +12,4 @@ The data for this project was taken from the UCI Machine Learning Repository : h
 
 ## Mind mapping
 I've built a mind map which summarizes my work :
-![mind_map](Images/mind_map.jpg)
+![Imgur](https://i.imgur.com/pQu4CvL.jpg)
