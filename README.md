@@ -11,5 +11,5 @@ The data for this project was taken from the UCI Machine Learning Repository : h
  * Use predictive models to determine the individuals that are the most likely to make over 50k a year
 
 ## Mind mapping
-I've built a mind map which summarizes my work :
+I've built a mind map which summarizes my work:
 ![Imgur](https://i.imgur.com/pQu4CvL.jpg)
